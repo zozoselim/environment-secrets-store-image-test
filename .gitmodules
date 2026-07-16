@@ -5,7 +5,7 @@
 [submodule "components/EnvironmentSecretsStore"]
 	path = components/EnvironmentSecretsStore
 	url = https://github.com/zozoselim/environment-secrets-store-package-test.git
-	branch = environment_secrets_store_test
+	branch = main
 
 [submodule "sdks/novavision"]
 	path = sdks/novavision
